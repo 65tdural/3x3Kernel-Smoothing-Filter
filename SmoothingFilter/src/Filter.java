@@ -129,7 +129,7 @@ public class Filter {
 						
 					}
 					
-				//	ImageIO.write(GaussianImage,"png",new File("C:\\Users\\TUNCAY\\Desktop\\Java_Denemeleri\\image9.png"));
+				
 					ImageIcon outputIMG=new ImageIcon(returnImage);
 					output_image.setIcon(outputIMG);
 				}catch(IOException e1) {
